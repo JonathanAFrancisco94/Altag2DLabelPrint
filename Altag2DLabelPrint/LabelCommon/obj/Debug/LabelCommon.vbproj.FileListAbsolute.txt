@@ -1,0 +1,8 @@
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\bin\Debug\LabelCommon.dll
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\bin\Debug\LabelCommon.pdb
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\bin\Debug\LabelCommon.xml
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\obj\Debug\LabelCommon.Resources.resources
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\obj\Debug\LabelCommon.vbproj.GenerateResource.Cache
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\obj\Debug\LabelCommon.dll
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\obj\Debug\LabelCommon.xml
+D:\SMARTCONSOLE\Print2DLabel\AutomationLabelPrint\SmartConsoleLabelPrintforOven\LabelCommon\obj\Debug\LabelCommon.pdb
